@@ -17,4 +17,8 @@ Hardware Vendors Starter Kits - RaspberryPi
 # Sensors and Actuator Standards
 
 
+
+# Software for Hardware
+
+
 https://www.raspberrypi.com/
