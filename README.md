@@ -18,6 +18,10 @@ Hardware Vendors Starter Kits - RaspberryPi
 
 
 
+# Connectivity Hardware Standards - 5G , Ethernet , CyberSecurity Compliant ,etc 
+
+
+
 # Software for Hardware
 
 
