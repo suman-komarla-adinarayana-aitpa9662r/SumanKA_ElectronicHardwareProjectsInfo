@@ -28,8 +28,12 @@ Hardware Vendors Starter Kits - RaspberryPi
 # Sensors and Actuator Standards
 
 
+# Hardware Components
+
 
 # Connectivity Hardware Standards - 5G , Ethernet , CyberSecurity Compliant ,etc 
+
+
 
 
 
@@ -46,5 +50,12 @@ Hardware Vendors Starter Kits - RaspberryPi
 
 # Hardware as a Product
 
+
+# Automotive Hardware Lab
+
+# Automotive Hardware Lab Devices,Equipments,Components
+
+
+# Hardware Vendors/OEMS/SUPPLIERS/TOOLS/
 
 https://www.raspberrypi.com/
