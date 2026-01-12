@@ -5,6 +5,17 @@ https://en.wikipedia.org/wiki/Open-source_hardware
 https://www.openhardware.io/
 
 
+# Analog Devices and Circuits
+
+# Digital Devices and Circuits
+
+# Mixed Signal Devices and Circuits
+
+# Hobby Project Kits
+
+
+# Programmable Logic Controllers, VHDL, VLSI, XILINX,
+
 
 
 # Microcontroller and Microprocessor Standards
