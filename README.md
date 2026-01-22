@@ -33,6 +33,10 @@ Hardware Vendors Starter Kits - RaspberryPi
 # Multicore and Manycore Technology Standards
 
 
+# Onboard and Offboard Computing
+
+# Supercomputing
+
 # Sensors and Actuator Standards
 
 
@@ -67,3 +71,20 @@ Hardware Vendors Starter Kits - RaspberryPi
 # Hardware Vendors/OEMS/SUPPLIERS/TOOLS/
 
 https://www.raspberrypi.com/
+
+# Electronics and Hardware Industry/Market/Sector Technology Research Journals/Articles/Whitepaper Information
+
+# Electronics and Hardware Industry/Market/Sector Technology Media Information
+
+https://www.digikey.in/
+
+https://www.elektormagazine.com/magazine/
+
+https://www.eeherald.com/section/index.html
+
+https://electronicsera.in/magazine/
+
+http://www.efyindia.com/
+
+https://www.electronicsforu.com/magazine
+
