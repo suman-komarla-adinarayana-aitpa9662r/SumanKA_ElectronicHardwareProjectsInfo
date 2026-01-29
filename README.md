@@ -14,7 +14,7 @@ ex:- Automotive Cybersecurity, Internet of Things, Electronic Tolling, Vehicle t
 
 # Electromechanical
 
-ex:- Throttle Valve, Exhaust Gas Regulation Valve, Injector Valve (Piezo and Solenoid) , Electrically Controller Turbo Charger, 
+ex:- Throttle Valve, Exhaust Gas Regulation Valve, Injector Valve (Piezo and Solenoid) , Electrically Controller Turbo Charger, etc
 
 # Analog Devices and Circuits
 
