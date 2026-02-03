@@ -174,6 +174,10 @@ https://electronicsera.in/magazine/
 
 http://www.efyindia.com/
 
+https://asianphotographyindia.com/
+
+https://smartphotography.in/
+
 http://eb.efyindia.com/index.asp?id=20
 
 https://www.electronicsforu.com/magazine
