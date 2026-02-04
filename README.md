@@ -4,6 +4,10 @@ https://www.unesco.org/en/open-science
 
 https://en.wikipedia.org/wiki/Open_science
 
+# Open Energy
+
+https://www.openenergy.co/
+
 
 #  Open Electrical And Open Electronics projects Information
 
@@ -16,7 +20,7 @@ https://www.open-electronics.org/
 https://wiki.p2pfoundation.net/index.php/Main_Page
 
 
-#  Open Hardware projects Information
+#  Open Hardware projects Information 
 
 https://en.wikipedia.org/wiki/Open-source_hardware
 
